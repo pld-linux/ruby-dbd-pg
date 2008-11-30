@@ -6,6 +6,7 @@ License:	Ruby License
 Group:		Development/Libraries
 Source0:	http://rubyforge.org/frs/download.php/47540/dbd-pg-%{version}.tar.gz
 # Source0-md5:	82167a3a06112e6113d4d76d869b79ad
+Requires:	ruby-pg
 URL:		http://rubyforge.org/projects/ruby-dbi/
 
 %description
